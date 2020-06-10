@@ -6,6 +6,6 @@
 
 #### 软件依赖
 1.  Pyhton3.6
-2.  GDAL
-3.  opencv-python
-4.  Jupyter Notebook
+2.  Sci-Kit learn
+3.  Jupyter Notebook
+ 
